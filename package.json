@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^5.10.1",
     "netlify-identity-widget": "^1.9.2",
     "next": "15.2.3",
     "react": "^19.0.0",
